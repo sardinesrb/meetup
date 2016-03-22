@@ -1,5 +1,5 @@
 # Sardines.rb
-Sardines.rb is a Ruby in Lisbon. The focus of the meetup is on topics related to the ecosystem of the Ruby programming language (e.g. tools, frameworks, best practices, libraries, languages).
+Sardines.rb is a Ruby meetup in Lisbon. The focus of the meetup is on topics related to the ecosystem of the Ruby programming language (e.g. tools, frameworks, best practices, libraries, languages).
 
 The goal of the meetup is to create a welcoming environment where Ruby enthusiasts can meet and exchange what they know, what they are experimenting with and what they are thrilled about.
 
