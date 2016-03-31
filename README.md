@@ -15,7 +15,7 @@ __Where:__ [LINNK, Rua Braamcamp 88, 5ºEsq. 1250-052 Lisboa Portugal](https://g
 
 __Speakers:__
 
-1. João Soares, topic: TBA
+1. João Soares, topic: database multitenancy in Ruby
 2. José Duarte, topic: [hanami](http://hanamirb.org/)
 
 ## Contribute
