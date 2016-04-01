@@ -15,8 +15,8 @@ __Where:__ [LINNK, Rua Braamcamp 88, 5ºEsq. 1250-052 Lisboa Portugal](https://g
 
 __Speakers:__
 
-1. João Soares, topic: database multitenancy in Ruby
-2. José Duarte, topic: [hanami](http://hanamirb.org/)
+1. [João Soares](https://twitter.com/_jasoares), topic: database multitenancy in Ruby
+2. [José Duarte](https://twitter.com/jfduarte), topic: [hanami](http://hanamirb.org/)
 
 ## Contribute
 
