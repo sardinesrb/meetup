@@ -1,12 +1,11 @@
-Hey Ruby devs!
+### Meetup #1
+__When:__ Tuesday, 26th of April, 19:30
 
-sardines.rb is the new ruby Lisbon meetup. Per meetup, we will have two 20 min talks with 15 min for discussion. 
+__Where:__ [LINNK, Rua Braamcamp 88, 5ºEsq. 1250-052 Lisboa Portugal](https://goo.gl/maps/P7jU21YRn7R2)
 
-We’re kicking of with two awesome talks:
+__Speakers:__
 
-[José Duarte](https://twitter.com/jfduarte), senior software developer at [minuscode ](http://minuscode.com/) will be talking about [hanami](http://hanamirb.org/), the minimalistic Ruby web framework, presentation link can be found [here](http://platon.io/4qjU)
+1. [João Soares](https://twitter.com/_jasoares), topic: database multitenancy in Ruby, [presentation](http://platon.io/4qjU)
+2. [José Duarte](https://twitter.com/jfduarte), topic: [hanami](http://hanamirb.org/), [presentation](http://www.slideshare.net/jaisoares/database-multitenancy-in-ruby) 
 
-[João Soares](https://twitter.com/_jasoares), CTO at [Liquid ](https://onliquid.com/) will be talking about database multitenancy in Ruby, presentation link can be found [here](http://www.slideshare.net/jaisoares/database-multitenancy-in-ruby)
-
-
-
+__Sponsors:__ [Seedrs](seedrs.com) (catering), [meta.](meta-icg.com) (location)
