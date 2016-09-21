@@ -16,7 +16,7 @@ __Speakers:__
 1. [Sérgio Freire](https://twitter.com/darktelecom), topic: Automated tests for complex fiber optics scenarios
 2. [Tadas Ščerbinskas](https://twitter.com/tadassce), topic: Quality of automated tests
 
-__Sponsors:__ [Beta-i](http://beta-i.pt/) (location)
+__Sponsors:__ [Onfido](https://onfido.com/) (catering), [Beta-i](http://beta-i.pt/) (location)
 
 ## Past Meetups
 
